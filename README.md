@@ -2,7 +2,7 @@
 PRJ566 Github Repo for Team 3 
 
 # Team Leader
-- Yunus Gmmus
+- Yunus Emre Gumus
 
 # Team Members
 - Hashmeet Singh Saini
